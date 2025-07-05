@@ -11,8 +11,11 @@ hero:
       text: 关于项目
       link: /about_project
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 病友指南
+      link: /patient/小胰宝-病友宝典
+    - theme: alt
+      text: 贡献指南
+      link: /contributor/加入项目前必读
 
 features:
   - title: ✨ NEW:社区驱动，微光成炬
