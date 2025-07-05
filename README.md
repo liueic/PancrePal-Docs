@@ -26,7 +26,7 @@ cd PancrePal-Docs
 
 ### 2. 安装依赖
 
-确保你已安装 [Node.js](https://nodejs.org/) (建议 18.x 及以上) 和 [npm](https://www.npmjs.com/)。
+确保你已安装 [Node.js](https://nodejs.org/) (建议 22.x 及以上) 和 [npm](https://www.npmjs.com/)。
 
 ```bash
 npm install
