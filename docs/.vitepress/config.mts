@@ -5,6 +5,7 @@ import taskLists from 'markdown-it-task-checkbox'
 export default defineConfig({
   title: "小X宝社区 & 小胰宝",
   description: "用 AI 为肿瘤患者点亮希望之光",
+  ignoreDeadLinks: true, // 允许死链
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
