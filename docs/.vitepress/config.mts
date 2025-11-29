@@ -19,8 +19,8 @@ export default defineConfig({
         items: [
           { text: '项目简介', link: '/about_project' },
           { text: '自部署指南', link: '/project/自部署指南' },
-          { text:'产品路线图', link: '/project/roadmap' },
-          { text:'安全政策说明', link: '/project/SECURITY' },
+          { text: '产品路线图', link: '/project/roadmap' },
+          { text: '安全政策说明', link: '/project/SECURITY' },
         ]
       },
       {
@@ -34,7 +34,8 @@ export default defineConfig({
         text: '贡献指南',
         items: [
           { text: '加入项目前必读', link: '/contributor/加入项目前必读' },
-          { text: '任务清单', link: '/contributor/require' }
+          { text: '任务清单', link: '/contributor/require' },
+          { text: '知识库贡献', link: '/contributor/知识库贡献' },
         ]
       }
     ],
